@@ -1,0 +1,37 @@
+TextAsset Base
+	string m_Name = "TeXiaoSuCai2.atlas"
+	string m_Script = "
+TeXiaoSuCai2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 167, 183
+  orig: 167, 183
+  offset: 0, 0
+  index: -1
+2a
+  rotate: false
+  xy: 171, 26
+  size: 128, 158
+  orig: 128, 158
+  offset: 0, 0
+  index: -1
+2b
+  rotate: false
+  xy: 302, 77
+  size: 101, 107
+  orig: 101, 107
+  offset: 0, 0
+  index: -1
+2c
+  rotate: false
+  xy: 406, 64
+  size: 72, 120
+  orig: 72, 120
+  offset: 0, 0
+  index: -1
+"

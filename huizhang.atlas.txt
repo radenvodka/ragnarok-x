@@ -1,0 +1,156 @@
+TextAsset Base
+	string m_Name = "huizhang.atlas"
+	string m_Script = "
+huizhang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boli4
+  rotate: true
+  xy: 436, 370
+  size: 124, 42
+  orig: 124, 42
+  offset: 0, 0
+  index: -1
+boli5
+  rotate: false
+  xy: 133, 9
+  size: 127, 155
+  orig: 127, 155
+  offset: 0, 0
+  index: -1
+boli6
+  rotate: false
+  xy: 263, 113
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+boli7
+  rotate: false
+  xy: 144, 336
+  size: 143, 158
+  orig: 143, 158
+  offset: 0, 0
+  index: -1
+boli8
+  rotate: false
+  xy: 263, 57
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+boli9
+  rotate: false
+  xy: 341, 119
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+fengtu10
+  rotate: false
+  xy: 436, 240
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+fengtu4
+  rotate: true
+  xy: 481, 450
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+fengtu5
+  rotate: true
+  xy: 481, 420
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+fengtu6
+  rotate: true
+  xy: 436, 296
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+fengtu7
+  rotate: true
+  xy: 1, 167
+  size: 161, 140
+  orig: 161, 144
+  offset: 0, 0
+  index: -1
+fengtu8
+  rotate: false
+  xy: 144, 175
+  size: 143, 158
+  orig: 143, 158
+  offset: 0, 0
+  index: -1
+fengtu9
+  rotate: false
+  xy: 385, 119
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+liuliuhou4
+  rotate: false
+  xy: 1, 331
+  size: 140, 163
+  orig: 156, 163
+  offset: 0, 0
+  index: -1
+liuliuhou5
+  rotate: false
+  xy: 290, 336
+  size: 143, 158
+  orig: 143, 158
+  offset: 0, 0
+  index: -1
+liuliuhou6
+  rotate: false
+  xy: 436, 184
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+liuliuhou7
+  rotate: false
+  xy: 263, 1
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+moka4
+  rotate: false
+  xy: 1, 1
+  size: 129, 163
+  orig: 129, 164
+  offset: 0, 0
+  index: -1
+moka5
+  rotate: false
+  xy: 290, 175
+  size: 143, 158
+  orig: 143, 158
+  offset: 0, 0
+  index: -1
+moka6
+  rotate: false
+  xy: 307, 57
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+moka7
+  rotate: false
+  xy: 307, 1
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+"

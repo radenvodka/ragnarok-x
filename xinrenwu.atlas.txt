@@ -1,0 +1,30 @@
+TextAsset Base
+	string m_Name = "xinrenwu.atlas"
+	string m_Script = "
+xinrenwu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 365, 151
+  orig: 366, 151
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 518, 156
+  size: 354, 411
+  orig: 354, 411
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1, 155
+  size: 355, 514
+  orig: 355, 514
+  offset: 0, 0
+  index: -1
+"

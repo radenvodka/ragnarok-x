@@ -1,0 +1,177 @@
+TextAsset Base
+	string m_Name = "FavorAbilityTaskInProgress_3D.atlas"
+	string m_Script = "
+FavorAbilityTaskInProgress_3D.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlueTaskSymbolBG
+  rotate: false
+  xy: 1, 124
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+BlueTaskSymbolBG2
+  rotate: false
+  xy: 154, 191
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Blue_D
+  rotate: false
+  xy: 21, 30
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+CoupleSubmitTaskSymbolBG
+  rotate: false
+  xy: 1, 165
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+CoupleSubmitTaskSymbolBG2
+  rotate: false
+  xy: 103, 147
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+CoupleSubmit_D
+  rotate: false
+  xy: 1, 13
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+GreenTaskSymbolBG
+  rotate: false
+  xy: 52, 166
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+GreenTaskSymbolBG2
+  rotate: false
+  xy: 1, 26
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Green_D
+  rotate: false
+  xy: 52, 58
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+OrangeTaskSymbolBG
+  rotate: false
+  xy: 1, 83
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+OrangeTaskSymbolBG2
+  rotate: false
+  xy: 52, 70
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Orange_D
+  rotate: false
+  xy: 72, 74
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+PinkTaskSymbolBG
+  rotate: false
+  xy: 52, 86
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+PinkTaskSymbolBG2
+  rotate: false
+  xy: 174, 193
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Pink_D
+  rotate: false
+  xy: 174, 181
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+PurpleTaskSymbolBG
+  rotate: false
+  xy: 52, 125
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+PurpleTaskSymbolBG2
+  rotate: false
+  xy: 103, 131
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Purple_D
+  rotate: false
+  xy: 189, 195
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+RedTaskSymbolBG
+  rotate: false
+  xy: 103, 166
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+RedTaskSymbolBG2
+  rotate: false
+  xy: 124, 150
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Red_D
+  rotate: false
+  xy: 1, 1
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+YellowTaskSymbolBG
+  rotate: false
+  xy: 1, 42
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+YellowTaskSymbolBG2
+  rotate: false
+  xy: 154, 175
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+Yellow_D
+  rotate: false
+  xy: 33, 30
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+"

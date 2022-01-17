@@ -1,0 +1,37 @@
+TextAsset Base
+	string m_Name = "SLM.atlas"
+	string m_Script = "
+SLM.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1, 1
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+Eyes
+  rotate: false
+  xy: 72, 35
+  size: 58, 12
+  orig: 58, 12
+  offset: 0, 0
+  index: -1
+Line
+  rotate: true
+  xy: 72, 50
+  size: 7, 102
+  orig: 7, 102
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 177, 51
+  size: 37, 6
+  orig: 37, 6
+  offset: 0, 0
+  index: -1
+"

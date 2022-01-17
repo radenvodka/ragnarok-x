@@ -1,0 +1,23 @@
+TextAsset Base
+	string m_Name = "laba.atlas"
+	string m_Script = "
+laba.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b
+  rotate: false
+  xy: 238, 80
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+laba
+  rotate: false
+  xy: 1, 1
+  size: 234, 182
+  orig: 234, 182
+  offset: 0, 0
+  index: -1
+"

@@ -1,0 +1,51 @@
+TextAsset Base
+	string m_Name = "AchievementLevel_5.atlas"
+	string m_Script = "
+AchievementLevel_5.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ribbon
+  rotate: true
+  xy: 677, 105
+  size: 32, 99
+  orig: 32, 99
+  offset: 0, 0
+  index: -1
+Ribbon_s
+  rotate: true
+  xy: 1, 1
+  size: 8, 44
+  orig: 9, 44
+  offset: 0, 0
+  index: -1
+Shield
+  rotate: true
+  xy: 268, 30
+  size: 204, 249
+  orig: 204, 249
+  offset: 0, 0
+  index: -1
+Sword
+  rotate: true
+  xy: 1, 12
+  size: 222, 264
+  orig: 222, 264
+  offset: 0, 0
+  index: -1
+Wing_B
+  rotate: false
+  xy: 520, 47
+  size: 154, 187
+  orig: 154, 187
+  offset: 0, 0
+  index: -1
+Wing_s
+  rotate: false
+  xy: 677, 140
+  size: 129, 94
+  orig: 130, 94
+  offset: 0, 0
+  index: -1
+"

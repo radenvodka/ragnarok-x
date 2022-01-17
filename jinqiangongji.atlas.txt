@@ -1,0 +1,16 @@
+TextAsset Base
+	string m_Name = "jinqiangongji.atlas"
+	string m_Script = "
+jinqiangongji.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi
+  rotate: false
+  xy: 1, 1
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+"

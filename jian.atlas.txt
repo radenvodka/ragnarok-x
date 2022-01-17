@@ -1,0 +1,30 @@
+TextAsset Base
+	string m_Name = "jian.atlas"
+	string m_Script = "
+jian.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1, 1
+  size: 100, 168
+  orig: 100, 168
+  offset: 0, 0
+  index: -1
+2a
+  rotate: true
+  xy: 172, 12
+  size: 89, 106
+  orig: 89, 106
+  offset: 0, 0
+  index: -1
+2b
+  rotate: false
+  xy: 281, 40
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+"

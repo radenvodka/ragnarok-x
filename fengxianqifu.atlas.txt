@@ -1,0 +1,86 @@
+TextAsset Base
+	string m_Name = "fengxianqifu.atlas"
+	string m_Script = "
+fengxianqifu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chi_You
+  rotate: false
+  xy: 1, 302
+  size: 326, 194
+  orig: 326, 194
+  offset: 0, 0
+  index: -1
+Chi_Zuo
+  rotate: false
+  xy: 1, 105
+  size: 315, 194
+  orig: 326, 194
+  offset: 11, 0
+  index: -1
+Fa
+  rotate: true
+  xy: 202, 2
+  size: 100, 125
+  orig: 100, 125
+  offset: 0, 0
+  index: -1
+Lian
+  rotate: false
+  xy: 319, 108
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+PiaoDai_1
+  rotate: false
+  xy: 330, 211
+  size: 163, 136
+  orig: 163, 136
+  offset: 0, 0
+  index: -1
+PiaoDai_2
+  rotate: false
+  xy: 1, 1
+  size: 198, 101
+  orig: 198, 101
+  offset: 0, 0
+  index: -1
+QunZi
+  rotate: false
+  xy: 330, 350
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+ShenTi
+  rotate: false
+  xy: 407, 144
+  size: 58, 64
+  orig: 58, 110
+  offset: 0, 46
+  index: -1
+Shou_1_You
+  rotate: true
+  xy: 468, 162
+  size: 46, 42
+  orig: 46, 48
+  offset: 0, 6
+  index: -1
+Shou_1_Zuo
+  rotate: false
+  xy: 407, 108
+  size: 45, 33
+  orig: 45, 40
+  offset: 0, 7
+  index: -1
+Shou_2_You
+  rotate: false
+  xy: 487, 471
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+"

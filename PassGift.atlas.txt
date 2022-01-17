@@ -1,0 +1,114 @@
+TextAsset Base
+	string m_Name = "PassGift.atlas"
+	string m_Script = "
+PassGift.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BoxB
+  rotate: true
+  xy: 353, 489
+  size: 254, 159
+  orig: 254, 159
+  offset: 0, 0
+  index: -1
+BoxF
+  rotate: true
+  xy: 1, 1
+  size: 270, 225
+  orig: 270, 225
+  offset: 0, 0
+  index: -1
+CoverB
+  rotate: false
+  xy: 599, 763
+  size: 267, 238
+  orig: 267, 238
+  offset: 0, 0
+  index: -1
+CoverF
+  rotate: false
+  xy: 327, 746
+  size: 269, 255
+  orig: 269, 255
+  offset: 0, 0
+  index: -1
+Gift
+  rotate: false
+  xy: 1, 662
+  size: 323, 339
+  orig: 323, 339
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 1, 274
+  size: 385, 235
+  orig: 385, 235
+  offset: 0, 0
+  index: -1
+Light2
+  rotate: false
+  xy: 869, 729
+  size: 126, 272
+  orig: 136, 272
+  offset: 5, 0
+  index: -1
+Light3
+  rotate: true
+  xy: 239, 393
+  size: 266, 111
+  orig: 270, 114
+  offset: 2, 3
+  index: -1
+Light4
+  rotate: false
+  xy: 353, 420
+  size: 195, 66
+  orig: 195, 66
+  offset: 0, 0
+  index: -1
+Light5
+  rotate: false
+  xy: 355, 358
+  size: 213, 59
+  orig: 213, 59
+  offset: 0, 0
+  index: -1
+Paper
+  rotate: false
+  xy: 837, 543
+  size: 178, 183
+  orig: 178, 183
+  offset: 0, 0
+  index: -1
+Ribbon1
+  rotate: false
+  xy: 355, 278
+  size: 47, 77
+  orig: 47, 77
+  offset: 0, 0
+  index: -1
+Ribbon2
+  rotate: false
+  xy: 515, 529
+  size: 154, 214
+  orig: 154, 214
+  offset: 0, 0
+  index: -1
+Tie
+  rotate: true
+  xy: 672, 559
+  size: 201, 162
+  orig: 201, 162
+  offset: 0, 0
+  index: -1
+star
+  rotate: true
+  xy: 239, 275
+  size: 115, 113
+  orig: 115, 113
+  offset: 0, 0
+  index: -1
+"

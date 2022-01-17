@@ -1,0 +1,142 @@
+TextAsset Base
+	string m_Name = "baoxiang.atlas"
+	string m_Script = "
+baoxiang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A5
+  rotate: false
+  xy: 642, 259
+  size: 102, 101
+  orig: 102, 101
+  offset: 0, 0
+  index: -1
+B5
+  rotate: false
+  xy: 1, 1
+  size: 104, 73
+  orig: 104, 73
+  offset: 0, 0
+  index: -1
+C5
+  rotate: true
+  xy: 934, 400
+  size: 91, 69
+  orig: 91, 69
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 747, 317
+  size: 102, 43
+  orig: 102, 43
+  offset: 0, 0
+  index: -1
+TXa (1)
+  rotate: false
+  xy: 140, 222
+  size: 127, 130
+  orig: 136, 136
+  offset: 5, 3
+  index: -1
+TXa (2)
+  rotate: false
+  xy: 1, 355
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+TXa (3)
+  rotate: false
+  xy: 1, 216
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+TXa (4)
+  rotate: false
+  xy: 140, 355
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+TXa (5)
+  rotate: false
+  xy: 1, 77
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+TXa (6)
+  rotate: false
+  xy: 532, 251
+  size: 107, 109
+  orig: 136, 136
+  offset: 14, 17
+  index: -1
+tx0001
+  rotate: false
+  xy: 279, 363
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0002
+  rotate: false
+  xy: 410, 363
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0003
+  rotate: false
+  xy: 541, 363
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0004
+  rotate: false
+  xy: 672, 363
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0005
+  rotate: false
+  xy: 803, 363
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0006
+  rotate: false
+  xy: 140, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0007
+  rotate: false
+  xy: 270, 224
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0008
+  rotate: false
+  xy: 271, 93
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0009
+  rotate: false
+  xy: 401, 232
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+"

@@ -1,0 +1,44 @@
+TextAsset Base
+	string m_Name = "4065.atlas"
+	string m_Script = "
+4065.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gear1
+  rotate: false
+  xy: 125, 18
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+Gear2
+  rotate: false
+  xy: 158, 25
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+Gear3
+  rotate: false
+  xy: 184, 25
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+NameBase
+  rotate: false
+  xy: 3, 9
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+Wing
+  rotate: true
+  xy: 75, 3
+  size: 44, 47
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+"

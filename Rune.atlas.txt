@@ -1,0 +1,184 @@
+TextAsset Base
+	string m_Name = "Rune.atlas"
+	string m_Script = "
+Rune.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Circle
+  rotate: false
+  xy: 1, 485
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+Line
+  rotate: false
+  xy: 260, 768
+  size: 218, 231
+  orig: 256, 256
+  offset: 34, 10
+  index: -1
+Normal
+  rotate: false
+  xy: 1, 300
+  size: 191, 182
+  orig: 191, 182
+  offset: 0, 0
+  index: -1
+Rune
+  rotate: false
+  xy: 481, 817
+  size: 191, 182
+  orig: 191, 182
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 1, 743
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TXa1
+  rotate: false
+  xy: 620, 684
+  size: 127, 130
+  orig: 136, 136
+  offset: 5, 3
+  index: -1
+TXa2
+  rotate: false
+  xy: 1, 1
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+TXa3
+  rotate: false
+  xy: 818, 863
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+TXa4
+  rotate: false
+  xy: 195, 346
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+TXa5
+  rotate: false
+  xy: 481, 678
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+TXa6
+  rotate: false
+  xy: 259, 485
+  size: 107, 109
+  orig: 136, 136
+  offset: 14, 17
+  index: -1
+TxXuan
+  rotate: false
+  xy: 1, 140
+  size: 159, 157
+  orig: 159, 159
+  offset: 0, 1
+  index: -1
+sui
+  rotate: false
+  xy: 195, 215
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx
+  rotate: false
+  xy: 675, 859
+  size: 140, 140
+  orig: 146, 146
+  offset: 1, 5
+  index: -1
+tx0001
+  rotate: false
+  xy: 163, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0002
+  rotate: false
+  xy: 294, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0003
+  rotate: false
+  xy: 326, 215
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0004
+  rotate: false
+  xy: 425, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0005
+  rotate: false
+  xy: 750, 728
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0006
+  rotate: false
+  xy: 881, 732
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0007
+  rotate: false
+  xy: 750, 597
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0008
+  rotate: false
+  xy: 881, 601
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx0009
+  rotate: false
+  xy: 334, 354
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+txxx
+  rotate: false
+  xy: 260, 643
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+txxxx
+  rotate: false
+  xy: 620, 573
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+"

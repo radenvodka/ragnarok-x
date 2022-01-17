@@ -1,0 +1,51 @@
+TextAsset Base
+	string m_Name = "nianshou_dunsui.atlas"
+	string m_Script = "
+nianshou_dunsui.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 106, 48
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+b_1
+  rotate: false
+  xy: 172, 62
+  size: 43, 49
+  orig: 76, 72
+  offset: 0, 23
+  index: -1
+b_2
+  rotate: false
+  xy: 106, 1
+  size: 44, 44
+  orig: 64, 72
+  offset: 20, 28
+  index: -1
+b_3
+  rotate: true
+  xy: 218, 46
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+b_4
+  rotate: false
+  xy: 218, 81
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 1, 4
+  size: 102, 107
+  orig: 160, 160
+  offset: 29, 24
+  index: -1
+"

@@ -1,0 +1,25 @@
+TextAsset Base
+	string m_Name = "data_BattleAchievement_BattleAchievementGroup"
+	string m_Script = "local table= {
+[1] = {},
+[2] = {
+  ["ID"]= 2,
+  ["Name"]= "AchievementGroupName_2"
+},
+[3] = {
+  ["ID"]= 3,
+  ["Name"]= "AchievementGroupName_3"
+},
+[4] = {
+  ["ID"]= 4,
+  ["Name"]= "AchievementGroupName_4"
+}
+}
+local baseTable={
+  ["ID"]= 1,
+  ["Name"]= "AchievementGroupName_1"
+}
+for _,v in pairs(table) do
+  setmetatable(v,{__index  = baseTable});
+end
+return table;"

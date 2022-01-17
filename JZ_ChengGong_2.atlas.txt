@@ -1,0 +1,30 @@
+TextAsset Base
+	string m_Name = "JZ_ChengGong_2.atlas"
+	string m_Script = "
+JZ_ChengGong_2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ChiBang_You
+  rotate: false
+  xy: 467, 108
+  size: 131, 122
+  orig: 131, 122
+  offset: 0, 0
+  index: -1
+Guang
+  rotate: true
+  xy: 233, 4
+  size: 226, 231
+  orig: 226, 231
+  offset: 0, 0
+  index: -1
+GuangQuan
+  rotate: false
+  xy: 1, 1
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+"

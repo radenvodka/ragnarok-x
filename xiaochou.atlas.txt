@@ -1,0 +1,261 @@
+TextAsset Base
+	string m_Name = "xiaochou.atlas"
+	string m_Script = "
+xiaochou.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BiZi
+  rotate: false
+  xy: 623, 383
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+DaBi_You
+  rotate: false
+  xy: 359, 59
+  size: 53, 18
+  orig: 53, 18
+  offset: 0, 0
+  index: -1
+DaBi_Zuo
+  rotate: false
+  xy: 430, 144
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+Fa_You
+  rotate: false
+  xy: 971, 427
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+Fa_Zuo
+  rotate: true
+  xy: 259, 51
+  size: 75, 97
+  orig: 75, 97
+  offset: 0, 0
+  index: -1
+GG_You
+  rotate: false
+  xy: 1, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+GG_Zuo
+  rotate: true
+  xy: 487, 396
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+KuJiao_You
+  rotate: true
+  xy: 454, 339
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+KuJiao_Zuo
+  rotate: false
+  xy: 588, 365
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+LingZi
+  rotate: false
+  xy: 294, 396
+  size: 190, 109
+  orig: 190, 109
+  offset: 0, 0
+  index: -1
+MAOZI
+  rotate: false
+  xy: 737, 433
+  size: 126, 72
+  orig: 126, 72
+  offset: 0, 0
+  index: -1
+MaoZi_1a
+  rotate: true
+  xy: 294, 215
+  size: 59, 101
+  orig: 59, 101
+  offset: 0, 0
+  index: -1
+MaoZi_1b
+  rotate: false
+  xy: 359, 80
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+MaoZi_2
+  rotate: false
+  xy: 487, 405
+  size: 123, 100
+  orig: 123, 100
+  offset: 0, 0
+  index: -1
+MaoZi_3
+  rotate: true
+  xy: 613, 406
+  size: 99, 121
+  orig: 99, 121
+  offset: 0, 0
+  index: -1
+MaoZi_4
+  rotate: false
+  xy: 259, 129
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+QIU
+  rotate: false
+  xy: 1, 218
+  size: 290, 287
+  orig: 290, 287
+  offset: 0, 0
+  index: -1
+Qiu_1
+  rotate: false
+  xy: 500, 313
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Qiu_2
+  rotate: false
+  xy: 494, 359
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+Qiu_3
+  rotate: true
+  xy: 541, 359
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+ShenTi
+  rotate: false
+  xy: 294, 277
+  size: 157, 116
+  orig: 157, 116
+  offset: 0, 0
+  index: -1
+ShouZhi_You
+  rotate: true
+  xy: 653, 387
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+ShouZhi_Zuo
+  rotate: true
+  xy: 796, 412
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+Shou_You
+  rotate: false
+  xy: 398, 215
+  size: 89, 59
+  orig: 89, 59
+  offset: 0, 0
+  index: -1
+Shou_Zuo
+  rotate: true
+  xy: 352, 135
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 866, 424
+  size: 102, 81
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+XiaoBi_You
+  rotate: true
+  xy: 454, 287
+  size: 49, 43
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+XiaoBi_Zuo
+  rotate: true
+  xy: 500, 275
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+XiaoTui_You
+  rotate: false
+  xy: 170, 68
+  size: 86, 147
+  orig: 86, 147
+  offset: 0, 0
+  index: -1
+XiaoTui_Zuo
+  rotate: true
+  xy: 1, 8
+  size: 48, 158
+  orig: 48, 158
+  offset: 0, 0
+  index: -1
+Xie_Zuo
+  rotate: false
+  xy: 546, 312
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+YanQiu_You
+  rotate: false
+  xy: 623, 367
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+YanQiu_Zuo
+  rotate: false
+  xy: 823, 412
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+Zui
+  rotate: false
+  xy: 737, 412
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 544, 268
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 1, 59
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+"

@@ -1,0 +1,30 @@
+TextAsset Base
+	string m_Name = "Ghost.atlas"
+	string m_Script = "
+Ghost.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 68, 11
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 68, 22
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 1, 1
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+"

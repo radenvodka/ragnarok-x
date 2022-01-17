@@ -1,0 +1,44 @@
+TextAsset Base
+	string m_Name = "yemankansha.atlas"
+	string m_Script = "
+yemankansha.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MELT DOWN!
+  rotate: false
+  xy: 125, 144
+  size: 124, 42
+  orig: 124, 42
+  offset: 0, 0
+  index: -1
+X
+  rotate: false
+  xy: 1, 13
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+dun
+  rotate: true
+  xy: 125, 72
+  size: 69, 79
+  orig: 69, 79
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 125, 189
+  size: 57, 124
+  orig: 57, 124
+  offset: 0, 0
+  index: -1
+suolian
+  rotate: false
+  xy: 1, 125
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+"

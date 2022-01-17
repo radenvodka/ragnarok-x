@@ -1,0 +1,79 @@
+TextAsset Base
+	string m_Name = "guangyaozhitang.atlas"
+	string m_Script = "
+guangyaozhitang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: false
+  xy: 1, 280
+  size: 428, 225
+  orig: 428, 225
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: true
+  xy: 204, 168
+  size: 109, 211
+  orig: 109, 215
+  offset: 0, 4
+  index: -1
+lian
+  rotate: false
+  xy: 432, 334
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+qunzihou
+  rotate: true
+  xy: 432, 422
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+qunziqian
+  rotate: false
+  xy: 204, 1
+  size: 194, 164
+  orig: 194, 164
+  offset: 0, 0
+  index: -1
+shangshen
+  rotate: true
+  xy: 1, 160
+  size: 117, 103
+  orig: 117, 107
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 1, 1
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 401, 24
+  size: 129, 106
+  orig: 129, 106
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 107, 160
+  size: 94, 117
+  orig: 94, 120
+  offset: 0, 3
+  index: -1
+zuotui
+  rotate: false
+  xy: 432, 156
+  size: 70, 175
+  orig: 70, 175
+  offset: 0, 0
+  index: -1
+"

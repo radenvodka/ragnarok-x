@@ -1,0 +1,30 @@
+TextAsset Base
+	string m_Name = "Rocker.atlas"
+	string m_Script = "
+Rocker.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: false
+  xy: 180, 10
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+BombBig
+  rotate: false
+  xy: 1, 1
+  size: 176, 125
+  orig: 183, 130
+  offset: 3, 2
+  index: -1
+Pole
+  rotate: false
+  xy: 180, 51
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+"

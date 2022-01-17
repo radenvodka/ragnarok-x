@@ -1,0 +1,51 @@
+TextAsset Base
+	string m_Name = "Boli.atlas"
+	string m_Script = "
+Boli.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ball
+  rotate: false
+  xy: 125, 81
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Blush
+  rotate: false
+  xy: 190, 110
+  size: 64, 8
+  orig: 64, 8
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 1, 21
+  size: 121, 97
+  orig: 121, 97
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 125, 107
+  size: 62, 11
+  orig: 62, 11
+  offset: 0, 0
+  index: -1
+EyeOpen
+  rotate: false
+  xy: 1, 1
+  size: 57, 17
+  orig: 57, 17
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 61, 6
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+"

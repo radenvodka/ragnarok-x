@@ -1,0 +1,100 @@
+TextAsset Base
+	string m_Name = "tssw.atlas"
+	string m_Script = "
+tssw.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+swts1
+  rotate: true
+  xy: 410, 131
+  size: 224, 78
+  orig: 285, 84
+  offset: 0, 6
+  index: -1
+swts10
+  rotate: true
+  xy: 436, 414
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+swts11
+  rotate: false
+  xy: 263, 76
+  size: 125, 134
+  orig: 125, 134
+  offset: 0, 0
+  index: -1
+swts12
+  rotate: false
+  xy: 1, 40
+  size: 157, 165
+  orig: 157, 165
+  offset: 0, 0
+  index: -1
+swts13
+  rotate: false
+  xy: 1, 356
+  size: 304, 146
+  orig: 304, 146
+  offset: 0, 0
+  index: -1
+swts14
+  rotate: false
+  xy: 436, 358
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+swts2
+  rotate: false
+  xy: 186, 213
+  size: 114, 140
+  orig: 114, 140
+  offset: 0, 0
+  index: -1
+swts3
+  rotate: true
+  xy: 1, 1
+  size: 36, 195
+  orig: 36, 195
+  offset: 0, 0
+  index: -1
+swts4
+  rotate: false
+  xy: 1, 208
+  size: 182, 145
+  orig: 182, 145
+  offset: 0, 0
+  index: -1
+swts6
+  rotate: false
+  xy: 308, 358
+  size: 125, 144
+  orig: 125, 144
+  offset: 0, 0
+  index: -1
+swts7
+  rotate: false
+  xy: 391, 8
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+swts8
+  rotate: false
+  xy: 303, 221
+  size: 104, 132
+  orig: 104, 132
+  offset: 0, 0
+  index: -1
+swts9
+  rotate: true
+  xy: 161, 68
+  size: 137, 99
+  orig: 137, 99
+  offset: 0, 0
+  index: -1
+"

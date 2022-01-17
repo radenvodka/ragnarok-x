@@ -1,0 +1,93 @@
+TextAsset Base
+	string m_Name = "BoliLoading.atlas"
+	string m_Script = "
+BoliLoading.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 336, 76
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+BoliEye
+  rotate: false
+  xy: 405, 54
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+BoliG
+  rotate: false
+  xy: 132, 15
+  size: 99, 104
+  orig: 99, 104
+  offset: 0, 0
+  index: -1
+BoliL
+  rotate: true
+  xy: 1, 1
+  size: 124, 128
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+BoliN
+  rotate: false
+  xy: 234, 16
+  size: 99, 103
+  orig: 99, 103
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 462, 82
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 336, 30
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+I
+  rotate: true
+  xy: 132, 1
+  size: 11, 43
+  orig: 11, 43
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 379, 36
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+Line
+  rotate: false
+  xy: 132, 122
+  size: 233, 3
+  orig: 233, 3
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 422, 82
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 378, 82
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+"

@@ -1,0 +1,93 @@
+TextAsset Base
+	string m_Name = "nanguaren.atlas"
+	string m_Script = "
+nanguaren.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Han
+  rotate: false
+  xy: 119, 33
+  size: 29, 29
+  orig: 38, 38
+  offset: 5, 9
+  index: -1
+Jian
+  rotate: false
+  xy: 150, 43
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+Jiao_You
+  rotate: false
+  xy: 150, 27
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+Jiao_Zuo
+  rotate: true
+  xy: 148, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+MaoZi
+  rotate: false
+  xy: 68, 13
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+ShenTi
+  rotate: true
+  xy: 119, 15
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+Shou_You
+  rotate: true
+  xy: 182, 27
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+Shou_Zuo
+  rotate: false
+  xy: 174, 2
+  size: 13, 23
+  orig: 15, 23
+  offset: 2, 0
+  index: -1
+Tou
+  rotate: false
+  xy: 2, 6
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+YiBai
+  rotate: false
+  xy: 216, 48
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+Zhang
+  rotate: false
+  xy: 182, 46
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+Zhang2
+  rotate: false
+  xy: 119, 2
+  size: 10, 11
+  orig: 32, 16
+  offset: 22, 5
+  index: -1
+"

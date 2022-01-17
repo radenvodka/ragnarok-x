@@ -1,0 +1,17 @@
+TextAsset Base
+	string m_Name = "data_RidingAction"
+	string m_Script = "local table= {
+[1] = {}
+}
+local baseTable={
+  ["EquipmentType"]= 999,
+  ["ID"]= 1,
+  ["MountID"]= 80034,
+  ["RidingHurt"]= "MountBowhurt",
+  ["RidingIdel"]= "MountBowIdle",
+  ["RidingRun"]= "MountBowMoveForward"
+}
+for _,v in pairs(table) do
+  setmetatable(v,{__index  = baseTable});
+end
+return table;"

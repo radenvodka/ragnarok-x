@@ -1,0 +1,114 @@
+TextAsset Base
+	string m_Name = "BFT.atlas"
+	string m_Script = "
+BFT.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard
+  rotate: false
+  xy: 1179, 514
+  size: 58, 146
+  orig: 58, 146
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 774, 245
+  size: 402, 415
+  orig: 402, 415
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 225, 2
+  size: 141, 218
+  orig: 141, 218
+  offset: 0, 0
+  index: -1
+Fur1
+  rotate: false
+  xy: 774, 663
+  size: 476, 344
+  orig: 476, 344
+  offset: 0, 0
+  index: -1
+Fur2
+  rotate: false
+  xy: 1672, 756
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+Fur3
+  rotate: true
+  xy: 1, 1
+  size: 142, 221
+  orig: 142, 221
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 1051, 48
+  size: 183, 194
+  orig: 183, 194
+  offset: 0, 0
+  index: -1
+LeftEar
+  rotate: false
+  xy: 614, 64
+  size: 143, 79
+  orig: 143, 79
+  offset: 0, 0
+  index: -1
+LeftHand
+  rotate: true
+  xy: 1253, 690
+  size: 317, 416
+  orig: 518, 418
+  offset: 0, 1
+  index: -1
+LeftHornB
+  rotate: true
+  xy: 1926, 751
+  size: 71, 120
+  orig: 71, 120
+  offset: 0, 0
+  index: -1
+LeftHornF
+  rotate: false
+  xy: 774, 42
+  size: 274, 200
+  orig: 274, 200
+  offset: 0, 0
+  index: -1
+RightEar
+  rotate: false
+  xy: 1672, 684
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
+RightHand
+  rotate: false
+  xy: 1, 146
+  size: 770, 861
+  orig: 770, 861
+  offset: 0, 0
+  index: -1
+RightHornB
+  rotate: false
+  xy: 1926, 825
+  size: 110, 182
+  orig: 110, 182
+  offset: 0, 0
+  index: -1
+RightHornF
+  rotate: true
+  xy: 446, 54
+  size: 89, 165
+  orig: 89, 165
+  offset: 0, 0
+  index: -1
+"

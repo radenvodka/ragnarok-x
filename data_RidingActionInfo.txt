@@ -1,0 +1,4 @@
+TextAsset Base
+	string m_Name = "data_RidingActionInfo"
+	string m_Script = "
+>:���"MountBowhurt*MountBowIdle2MountBowMoveForward"

@@ -1,0 +1,23 @@
+TextAsset Base
+	string m_Name = "Rabbit.atlas"
+	string m_Script = "
+Rabbit.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1, 16
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 1, 1
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+"

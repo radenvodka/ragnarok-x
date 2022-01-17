@@ -1,0 +1,23 @@
+TextAsset Base
+	string m_Name = "RopeClose.atlas"
+	string m_Script = "
+RopeClose.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Img_RopeClose
+  rotate: false
+  xy: 1, 1
+  size: 127, 109
+  orig: 127, 110
+  offset: 0, 1
+  index: -1
+Img_RopeClose1
+  rotate: true
+  xy: 1, 113
+  size: 131, 334
+  orig: 131, 334
+  offset: 0, 0
+  index: -1
+"

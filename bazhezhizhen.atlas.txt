@@ -1,0 +1,79 @@
+TextAsset Base
+	string m_Name = "bazhezhizhen.atlas"
+	string m_Script = "
+bazhezhizhen.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lian
+  rotate: false
+  xy: 259, 95
+  size: 99, 105
+  orig: 99, 105
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 359, 313
+  size: 189, 133
+  orig: 189, 137
+  offset: 0, 0
+  index: -1
+shagnyi
+  rotate: false
+  xy: 157, 1
+  size: 103, 64
+  orig: 103, 64
+  offset: 0, 0
+  index: -1
+shizijia
+  rotate: false
+  xy: 1, 254
+  size: 171, 248
+  orig: 171, 248
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 175, 307
+  size: 181, 195
+  orig: 181, 195
+  offset: 0, 0
+  index: -1
+toushihou
+  rotate: false
+  xy: 1, 35
+  size: 153, 216
+  orig: 159, 216
+  offset: 0, 0
+  index: -1
+youshangqun
+  rotate: false
+  xy: 157, 68
+  size: 99, 132
+  orig: 99, 132
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 379, 257
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 318, 245
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+zuoxiaqun
+  rotate: true
+  xy: 175, 203
+  size: 101, 140
+  orig: 101, 140
+  offset: 0, 0
+  index: -1
+"

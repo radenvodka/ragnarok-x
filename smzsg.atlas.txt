@@ -1,0 +1,86 @@
+TextAsset Base
+	string m_Name = "smzsg.atlas"
+	string m_Script = "
+smzsg.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: false
+  xy: 1, 369
+  size: 191, 126
+  orig: 193, 126
+  offset: 2, 0
+  index: -1
+huang
+  rotate: false
+  xy: 195, 401
+  size: 113, 94
+  orig: 113, 94
+  offset: 0, 0
+  index: -1
+lan
+  rotate: true
+  xy: 311, 437
+  size: 58, 128
+  orig: 62, 129
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 442, 426
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+lv
+  rotate: false
+  xy: 73, 111
+  size: 43, 128
+  orig: 43, 129
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 1, 242
+  size: 133, 124
+  orig: 133, 124
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: true
+  xy: 311, 357
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 137, 280
+  size: 69, 86
+  orig: 69, 86
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 1, 8
+  size: 82, 92
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 1, 103
+  size: 136, 69
+  orig: 136, 69
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 209, 313
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+"

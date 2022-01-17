@@ -1,0 +1,261 @@
+TextAsset Base
+	string m_Name = "skeleton.atlas"
+	string m_Script = "
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+大地图解锁0001
+  rotate: false
+  xy: 909, 196
+  size: 87, 93
+  orig: 110, 110
+  offset: 13, 7
+  index: -1
+大地图解锁0002
+  rotate: false
+  xy: 822, 107
+  size: 76, 81
+  orig: 110, 110
+  offset: 19, 13
+  index: -1
+大地图解锁0003
+  rotate: false
+  xy: 901, 111
+  size: 77, 77
+  orig: 110, 110
+  offset: 16, 16
+  index: -1
+大地图解锁0004
+  rotate: false
+  xy: 572, 1
+  size: 85, 85
+  orig: 110, 110
+  offset: 12, 12
+  index: -1
+大地图解锁0005
+  rotate: false
+  xy: 714, 189
+  size: 95, 95
+  orig: 110, 110
+  offset: 7, 7
+  index: -1
+大地图解锁0006
+  rotate: false
+  xy: 508, 181
+  size: 103, 103
+  orig: 110, 110
+  offset: 3, 3
+  index: -1
+大地图解锁0007
+  rotate: false
+  xy: 403, 400
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+大地图解锁0008
+  rotate: false
+  xy: 516, 400
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+大地图解锁0009
+  rotate: false
+  xy: 629, 400
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+大地图解锁0010
+  rotate: false
+  xy: 742, 400
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+大地图解锁0011
+  rotate: false
+  xy: 855, 400
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+大地图解锁0012
+  rotate: false
+  xy: 403, 287
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+大地图解锁0013
+  rotate: false
+  xy: 516, 287
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+大地图解锁0014
+  rotate: false
+  xy: 629, 287
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+大地图解锁0015
+  rotate: false
+  xy: 742, 289
+  size: 109, 108
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+大地图解锁0016
+  rotate: false
+  xy: 854, 292
+  size: 105, 105
+  orig: 110, 110
+  offset: 2, 2
+  index: -1
+大地图解锁0017
+  rotate: false
+  xy: 149, 2
+  size: 101, 101
+  orig: 110, 110
+  offset: 4, 4
+  index: -1
+大地图解锁0018
+  rotate: false
+  xy: 614, 187
+  size: 97, 97
+  orig: 110, 110
+  offset: 6, 6
+  index: -1
+大地图解锁0019
+  rotate: true
+  xy: 812, 191
+  size: 95, 94
+  orig: 110, 110
+  offset: 7, 7
+  index: -1
+大地图解锁0020
+  rotate: false
+  xy: 196, 147
+  size: 91, 91
+  orig: 110, 110
+  offset: 9, 9
+  index: -1
+大地图解锁0021
+  rotate: false
+  xy: 290, 150
+  size: 91, 91
+  orig: 110, 110
+  offset: 9, 9
+  index: -1
+大地图解锁0022
+  rotate: false
+  xy: 384, 112
+  size: 91, 91
+  orig: 110, 110
+  offset: 9, 9
+  index: -1
+大地图解锁0023
+  rotate: false
+  xy: 290, 56
+  size: 91, 91
+  orig: 110, 110
+  offset: 9, 9
+  index: -1
+大地图解锁0024
+  rotate: false
+  xy: 384, 18
+  size: 91, 91
+  orig: 110, 110
+  offset: 9, 9
+  index: -1
+大地图解锁0025
+  rotate: false
+  xy: 478, 87
+  size: 91, 91
+  orig: 110, 110
+  offset: 9, 9
+  index: -1
+大地图解锁0026
+  rotate: false
+  xy: 572, 89
+  size: 89, 89
+  orig: 110, 110
+  offset: 10, 10
+  index: -1
+大地图解锁0027
+  rotate: false
+  xy: 664, 95
+  size: 89, 89
+  orig: 110, 110
+  offset: 10, 10
+  index: -1
+解锁0001
+  rotate: true
+  xy: 756, 100
+  size: 86, 63
+  orig: 200, 133
+  offset: 47, 35
+  index: -1
+解锁0003
+  rotate: false
+  xy: 478, 17
+  size: 90, 67
+  orig: 200, 133
+  offset: 46, 33
+  index: -1
+解锁0005
+  rotate: false
+  xy: 397, 206
+  size: 108, 78
+  orig: 200, 133
+  offset: 38, 28
+  index: -1
+解锁0007
+  rotate: false
+  xy: 1, 1
+  size: 145, 102
+  orig: 200, 133
+  offset: 21, 16
+  index: -1
+解锁0009
+  rotate: false
+  xy: 1, 377
+  size: 200, 133
+  orig: 200, 133
+  offset: 0, 0
+  index: -1
+解锁0011
+  rotate: false
+  xy: 1, 241
+  size: 200, 133
+  orig: 200, 133
+  offset: 0, 0
+  index: -1
+解锁0012
+  rotate: false
+  xy: 204, 377
+  size: 196, 133
+  orig: 200, 133
+  offset: 0, 0
+  index: -1
+解锁0013
+  rotate: false
+  xy: 1, 106
+  size: 192, 132
+  orig: 200, 133
+  offset: 0, 1
+  index: -1
+解锁0014
+  rotate: false
+  xy: 204, 244
+  size: 190, 130
+  orig: 200, 133
+  offset: 0, 3
+  index: -1
+"

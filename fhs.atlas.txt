@@ -1,0 +1,72 @@
+TextAsset Base
+	string m_Name = "fhs.atlas"
+	string m_Script = "
+fhs.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chacha
+  rotate: false
+  xy: 1, 256
+  size: 164, 233
+  orig: 164, 233
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: true
+  xy: 1, 17
+  size: 236, 154
+  orig: 241, 158
+  offset: 5, 0
+  index: -1
+fa
+  rotate: false
+  xy: 321, 381
+  size: 171, 108
+  orig: 171, 108
+  offset: 0, 0
+  index: -1
+jin
+  rotate: false
+  xy: 321, 341
+  size: 96, 37
+  orig: 96, 37
+  offset: 0, 0
+  index: -1
+jio
+  rotate: false
+  xy: 168, 325
+  size: 150, 164
+  orig: 150, 164
+  offset: 0, 0
+  index: -1
+sheng
+  rotate: false
+  xy: 168, 220
+  size: 115, 102
+  orig: 115, 102
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 158, 138
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 226, 173
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 158, 73
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+"

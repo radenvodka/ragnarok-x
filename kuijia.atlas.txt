@@ -1,0 +1,37 @@
+TextAsset Base
+	string m_Name = "kuijia.atlas"
+	string m_Script = "
+kuijia.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 79
+  size: 141, 171
+  orig: 141, 171
+  offset: 0, 0
+  index: -1
+2a
+  rotate: false
+  xy: 275, 162
+  size: 108, 88
+  orig: 108, 88
+  offset: 0, 0
+  index: -1
+2b
+  rotate: true
+  xy: 1, 1
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+2c
+  rotate: false
+  xy: 145, 104
+  size: 127, 146
+  orig: 127, 146
+  offset: 0, 0
+  index: -1
+"

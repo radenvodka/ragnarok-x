@@ -1,0 +1,128 @@
+TextAsset Base
+	string m_Name = "shenglingzhijian.atlas"
+	string m_Script = "
+shenglingzhijian.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chi_1_You
+  rotate: true
+  xy: 455, 39
+  size: 129, 109
+  orig: 144, 109
+  offset: 15, 0
+  index: -1
+Chi_1_Zou
+  rotate: false
+  xy: 696, 22
+  size: 131, 109
+  orig: 144, 109
+  offset: 0, 0
+  index: -1
+Chi_2_You
+  rotate: false
+  xy: 270, 48
+  size: 182, 120
+  orig: 182, 120
+  offset: 0, 0
+  index: -1
+Chi_2_Zou
+  rotate: false
+  xy: 763, 134
+  size: 182, 120
+  orig: 182, 120
+  offset: 0, 0
+  index: -1
+DaBi_You
+  rotate: false
+  xy: 90, 1
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+DaBi_Zuo
+  rotate: false
+  xy: 124, 1
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1
+Fa_1
+  rotate: false
+  xy: 567, 60
+  size: 126, 121
+  orig: 126, 121
+  offset: 0, 0
+  index: -1
+Fa_2
+  rotate: false
+  xy: 948, 182
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+GuangHuan
+  rotate: false
+  xy: 1, 21
+  size: 86, 31
+  orig: 86, 31
+  offset: 0, 0
+  index: -1
+Jian
+  rotate: true
+  xy: 270, 171
+  size: 83, 281
+  orig: 83, 281
+  offset: 0, 0
+  index: -1
+Lian
+  rotate: false
+  xy: 830, 68
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+ShenTi
+  rotate: true
+  xy: 1, 55
+  size: 199, 266
+  orig: 199, 266
+  offset: 0, 0
+  index: -1
+Shou_You
+  rotate: false
+  xy: 896, 106
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+Shou_Zuo
+  rotate: false
+  xy: 830, 39
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+Tui
+  rotate: true
+  xy: 554, 184
+  size: 70, 206
+  orig: 70, 206
+  offset: 0, 0
+  index: -1
+XiaoBi_You
+  rotate: false
+  xy: 696, 138
+  size: 57, 43
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+XiaoBi_Zuo
+  rotate: false
+  xy: 948, 135
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+"

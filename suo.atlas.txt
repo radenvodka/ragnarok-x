@@ -1,0 +1,79 @@
+TextAsset Base
+	string m_Name = "suo.atlas"
+	string m_Script = "
+suo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 1, 29
+  size: 49, 56
+  orig: 160, 137
+  offset: 55, 38
+  index: -1
+02
+  rotate: false
+  xy: 311, 416
+  size: 74, 72
+  orig: 160, 137
+  offset: 50, 31
+  index: -1
+03
+  rotate: false
+  xy: 1, 88
+  size: 88, 83
+  orig: 160, 137
+  offset: 43, 25
+  index: -1
+04
+  rotate: false
+  xy: 1, 272
+  size: 95, 97
+  orig: 160, 137
+  offset: 39, 13
+  index: -1
+05
+  rotate: false
+  xy: 1, 174
+  size: 94, 95
+  orig: 160, 137
+  offset: 38, 17
+  index: -1
+06
+  rotate: false
+  xy: 120, 392
+  size: 94, 96
+  orig: 160, 137
+  offset: 35, 16
+  index: -1
+07
+  rotate: false
+  xy: 217, 399
+  size: 91, 89
+  orig: 160, 137
+  offset: 38, 16
+  index: -1
+09
+  rotate: false
+  xy: 1, 372
+  size: 116, 116
+  orig: 160, 137
+  offset: 19, 1
+  index: -1
+1
+  rotate: false
+  xy: 388, 455
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 1
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+"

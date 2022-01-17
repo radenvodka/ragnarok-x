@@ -1,0 +1,107 @@
+TextAsset Base
+	string m_Name = "Hammer.atlas"
+	string m_Script = "
+Hammer.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boom
+  rotate: false
+  xy: 415, 165
+  size: 94, 68
+  orig: 94, 68
+  offset: 0, 0
+  index: -1
+Hammer
+  rotate: false
+  xy: 251, 62
+  size: 65, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+Line
+  rotate: true
+  xy: 218, 1
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: -1
+Slime
+  rotate: false
+  xy: 251, 11
+  size: 67, 48
+  orig: 75, 48
+  offset: 5, 0
+  index: -1
+Slime2
+  rotate: false
+  xy: 326, 99
+  size: 62, 45
+  orig: 75, 48
+  offset: 7, 1
+  index: -1
+Slime3
+  rotate: false
+  xy: 415, 114
+  size: 75, 48
+  orig: 75, 48
+  offset: 0, 0
+  index: -1
+Slime4
+  rotate: false
+  xy: 321, 52
+  size: 57, 44
+  orig: 75, 48
+  offset: 10, 1
+  index: -1
+Star
+  rotate: false
+  xy: 321, 14
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+TXa1
+  rotate: false
+  xy: 113, 16
+  size: 102, 105
+  orig: 109, 109
+  offset: 4, 2
+  index: -1
+TXa2
+  rotate: false
+  xy: 1, 124
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+TXa3
+  rotate: false
+  xy: 1, 12
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+TXa4
+  rotate: false
+  xy: 113, 124
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+txxx
+  rotate: false
+  xy: 225, 135
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+txxxx
+  rotate: false
+  xy: 326, 147
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+"

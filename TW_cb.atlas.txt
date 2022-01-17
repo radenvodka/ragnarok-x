@@ -1,0 +1,58 @@
+TextAsset Base
+	string m_Name = "TW_cb.atlas"
+	string m_Script = "
+TW_cb.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 390, 117
+  size: 124, 108
+  orig: 124, 108
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 347, 24
+  size: 90, 106
+  orig: 90, 106
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1, 1
+  size: 88, 74
+  orig: 88, 74
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 92, 34
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1, 78
+  size: 195, 163
+  orig: 195, 163
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 199, 128
+  size: 188, 113
+  orig: 188, 113
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 199, 36
+  size: 145, 89
+  orig: 145, 89
+  offset: 0, 0
+  index: -1
+"

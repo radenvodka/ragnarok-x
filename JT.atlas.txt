@@ -1,0 +1,23 @@
+TextAsset Base
+	string m_Name = "JT.atlas"
+	string m_Script = "
+JT.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiantou
+  rotate: false
+  xy: 1, 1
+  size: 129, 194
+  orig: 129, 194
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 133, 91
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+"

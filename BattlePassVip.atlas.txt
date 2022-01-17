@@ -1,0 +1,51 @@
+TextAsset Base
+	string m_Name = "BattlePassVip.atlas"
+	string m_Script = "
+BattlePassVip.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 399, 304
+  size: 195, 66
+  orig: 195, 66
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: true
+  xy: 337, 286
+  size: 213, 59
+  orig: 213, 59
+  offset: 0, 0
+  index: -1
+2_2
+  rotate: true
+  xy: 468, 58
+  size: 441, 12
+  orig: 441, 12
+  offset: 0, 0
+  index: -1
+3_1
+  rotate: false
+  xy: 1, 1
+  size: 266, 111
+  orig: 270, 114
+  offset: 2, 3
+  index: -1
+3_2
+  rotate: true
+  xy: 1, 115
+  size: 126, 272
+  orig: 136, 272
+  offset: 5, 0
+  index: -1
+ka
+  rotate: false
+  xy: 1, 244
+  size: 333, 255
+  orig: 333, 255
+  offset: 0, 0
+  index: -1
+"

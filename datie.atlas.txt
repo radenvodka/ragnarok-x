@@ -1,0 +1,142 @@
+TextAsset Base
+	string m_Name = "datie.atlas"
+	string m_Script = "
+datie.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 311, 317
+  size: 209, 193
+  orig: 209, 193
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1, 93
+  size: 276, 171
+  orig: 276, 171
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1, 267
+  size: 307, 243
+  orig: 307, 243
+  offset: 0, 0
+  index: -1
+dt_00000
+  rotate: true
+  xy: 920, 238
+  size: 114, 76
+  orig: 200, 125
+  offset: 50, 27
+  index: -1
+dt_00002
+  rotate: false
+  xy: 1, 11
+  size: 134, 79
+  orig: 200, 125
+  offset: 40, 22
+  index: -1
+dt_00004
+  rotate: true
+  xy: 920, 355
+  size: 155, 102
+  orig: 200, 125
+  offset: 24, 8
+  index: -1
+dt_00006
+  rotate: false
+  xy: 523, 228
+  size: 188, 116
+  orig: 200, 125
+  offset: 2, 0
+  index: -1
+dt_00008
+  rotate: false
+  xy: 311, 197
+  size: 196, 117
+  orig: 200, 125
+  offset: 0, 0
+  index: -1
+dt_00010
+  rotate: false
+  xy: 280, 77
+  size: 195, 117
+  orig: 200, 125
+  offset: 0, 0
+  index: -1
+dt_00012
+  rotate: false
+  xy: 717, 392
+  size: 200, 118
+  orig: 200, 125
+  offset: 0, 0
+  index: -1
+dt_00014
+  rotate: false
+  xy: 717, 271
+  size: 200, 118
+  orig: 200, 125
+  offset: 0, 0
+  index: -1
+dt_00016
+  rotate: true
+  xy: 839, 194
+  size: 74, 78
+  orig: 200, 125
+  offset: 0, 39
+  index: -1
+gg
+  rotate: false
+  xy: 523, 347
+  size: 191, 163
+  orig: 250, 250
+  offset: 38, 51
+  index: -1
+txb0001
+  rotate: false
+  xy: 510, 24
+  size: 82, 55
+  orig: 130, 90
+  offset: 23, 13
+  index: -1
+txb0002
+  rotate: false
+  xy: 389, 4
+  size: 118, 70
+  orig: 130, 90
+  offset: 5, 5
+  index: -1
+txb0003
+  rotate: false
+  xy: 138, 15
+  size: 124, 75
+  orig: 130, 90
+  offset: 2, 3
+  index: -1
+txb0004
+  rotate: false
+  xy: 265, 1
+  size: 121, 73
+  orig: 130, 90
+  offset: 4, 4
+  index: -1
+txb0005
+  rotate: false
+  xy: 714, 216
+  size: 122, 52
+  orig: 130, 90
+  offset: 3, 15
+  index: -1
+txc
+  rotate: false
+  xy: 478, 82
+  size: 107, 112
+  orig: 107, 115
+  offset: 0, 2
+  index: -1
+"

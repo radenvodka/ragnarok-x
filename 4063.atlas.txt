@@ -1,0 +1,30 @@
+TextAsset Base
+	string m_Name = "4063.atlas"
+	string m_Script = "
+4063.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NameBase
+  rotate: false
+  xy: 64, 22
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+Wing1
+  rotate: false
+  xy: 3, 3
+  size: 58, 58
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+Wing2
+  rotate: false
+  xy: 128, 26
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+"

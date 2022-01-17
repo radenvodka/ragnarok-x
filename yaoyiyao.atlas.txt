@@ -1,0 +1,16 @@
+TextAsset Base
+	string m_Name = "yaoyiyao.atlas"
+	string m_Script = "
+yaoyiyao.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+"

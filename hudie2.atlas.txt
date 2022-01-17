@@ -1,0 +1,23 @@
+TextAsset Base
+	string m_Name = "hudie2.atlas"
+	string m_Script = "
+hudie2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G_HD2
+  rotate: false
+  xy: 3, 3
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+HD_G
+  rotate: false
+  xy: 3, 31
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+"

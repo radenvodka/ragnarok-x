@@ -1,0 +1,72 @@
+TextAsset Base
+	string m_Name = "daogao.atlas"
+	string m_Script = "
+daogao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lian
+  rotate: false
+  xy: 157, 139
+  size: 99, 105
+  orig: 99, 105
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 185, 349
+  size: 189, 133
+  orig: 189, 137
+  offset: 0, 0
+  index: -1
+shagnyi
+  rotate: false
+  xy: 1, 1
+  size: 103, 64
+  orig: 103, 64
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 1, 287
+  size: 181, 195
+  orig: 181, 195
+  offset: 0, 0
+  index: -1
+toushihou
+  rotate: false
+  xy: 1, 68
+  size: 153, 216
+  orig: 159, 216
+  offset: 0, 0
+  index: -1
+youshangqun
+  rotate: true
+  xy: 185, 247
+  size: 99, 132
+  orig: 99, 132
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 320, 289
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 157, 78
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+zuoxiaqun
+  rotate: false
+  xy: 377, 342
+  size: 101, 140
+  orig: 101, 140
+  offset: 0, 0
+  index: -1
+"

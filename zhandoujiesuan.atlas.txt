@@ -1,0 +1,23 @@
+TextAsset Base
+	string m_Name = "zhandoujiesuan.atlas"
+	string m_Script = "
+zhandoujiesuan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CB2
+  rotate: false
+  xy: 1, 51
+  size: 58, 65
+  orig: 66, 69
+  offset: 0, 2
+  index: -1
+ZDJS
+  rotate: false
+  xy: 1, 119
+  size: 205, 84
+  orig: 205, 84
+  offset: 0, 0
+  index: -1
+"

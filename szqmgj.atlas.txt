@@ -1,0 +1,114 @@
+TextAsset Base
+	string m_Name = "szqmgj.atlas"
+	string m_Script = "
+szqmgj.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chacha
+  rotate: false
+  xy: 1, 64
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: false
+  xy: 270, 156
+  size: 157, 94
+  orig: 157, 94
+  offset: 0, 0
+  index: -1
+fa
+  rotate: true
+  xy: 430, 164
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 1, 19
+  size: 42, 101
+  orig: 42, 116
+  offset: 0, 15
+  index: -1
+jio
+  rotate: true
+  xy: 270, 59
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 135, 61
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+sheng
+  rotate: true
+  xy: 376, 95
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: false
+  xy: 135, 96
+  size: 132, 154
+  orig: 132, 154
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 178, 60
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 430, 108
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 105, 39
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 487, 222
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+zhutai
+  rotate: false
+  xy: 376, 58
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 221, 62
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 1, 1
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+"

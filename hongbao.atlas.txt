@@ -1,0 +1,170 @@
+TextAsset Base
+	string m_Name = "hongbao.atlas"
+	string m_Script = "
+hongbao.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G_HB1
+  rotate: false
+  xy: 1, 205
+  size: 255, 107
+  orig: 260, 113
+  offset: 5, 6
+  index: -1
+G_HB2
+  rotate: false
+  xy: 1, 661
+  size: 260, 343
+  orig: 260, 343
+  offset: 0, 0
+  index: -1
+G_HD1
+  rotate: true
+  xy: 387, 66
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+G_HD2
+  rotate: false
+  xy: 416, 59
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+G_HD3
+  rotate: false
+  xy: 445, 62
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+G_Hua1
+  rotate: false
+  xy: 73, 6
+  size: 29, 23
+  orig: 34, 33
+  offset: 5, 10
+  index: -1
+G_Hua2
+  rotate: false
+  xy: 73, 32
+  size: 42, 38
+  orig: 59, 61
+  offset: 17, 23
+  index: -1
+HD_G
+  rotate: false
+  xy: 1, 1
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+K_HB1
+  rotate: true
+  xy: 264, 407
+  size: 248, 94
+  orig: 248, 94
+  offset: 0, 0
+  index: -1
+K_HB2
+  rotate: false
+  xy: 1, 315
+  size: 260, 343
+  orig: 260, 343
+  offset: 0, 0
+  index: -1
+K_Zhi
+  rotate: false
+  xy: 264, 658
+  size: 245, 346
+  orig: 245, 346
+  offset: 0, 0
+  index: -1
+xx0001
+  rotate: false
+  xy: 264, 309
+  size: 121, 95
+  orig: 140, 140
+  offset: 10, 19
+  index: -1
+xx0002
+  rotate: true
+  xy: 134, 70
+  size: 132, 118
+  orig: 140, 140
+  offset: 0, 11
+  index: -1
+xx0003
+  rotate: true
+  xy: 361, 409
+  size: 124, 129
+  orig: 140, 140
+  offset: 6, 6
+  index: -1
+xx0004
+  rotate: false
+  xy: 361, 536
+  size: 135, 119
+  orig: 140, 140
+  offset: 0, 10
+  index: -1
+xx0005
+  rotate: false
+  xy: 1, 73
+  size: 130, 129
+  orig: 140, 140
+  offset: 6, 6
+  index: -1
+xx0006
+  rotate: false
+  xy: 394, 198
+  size: 112, 111
+  orig: 140, 140
+  offset: 23, 10
+  index: -1
+xx0011
+  rotate: false
+  xy: 394, 198
+  size: 112, 111
+  orig: 140, 140
+  offset: 23, 10
+  index: -1
+xx0007
+  rotate: false
+  xy: 387, 87
+  size: 123, 98
+  orig: 140, 140
+  offset: 13, 10
+  index: -1
+xx0012
+  rotate: false
+  xy: 387, 87
+  size: 123, 98
+  orig: 140, 140
+  offset: 13, 10
+  index: -1
+xx0008
+  rotate: false
+  xy: 388, 312
+  size: 120, 94
+  orig: 140, 140
+  offset: 10, 20
+  index: -1
+xx0009
+  rotate: false
+  xy: 259, 188
+  size: 132, 118
+  orig: 140, 140
+  offset: 0, 11
+  index: -1
+xx0010
+  rotate: true
+  xy: 255, 67
+  size: 118, 129
+  orig: 140, 140
+  offset: 6, 6
+  index: -1
+"

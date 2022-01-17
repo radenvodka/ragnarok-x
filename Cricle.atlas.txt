@@ -1,0 +1,16 @@
+TextAsset Base
+	string m_Name = "Cricle.atlas"
+	string m_Script = "
+Cricle.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cricle
+  rotate: false
+  xy: 1, 1
+  size: 300, 296
+  orig: 300, 296
+  offset: 0, 0
+  index: -1
+"

@@ -1,0 +1,128 @@
+TextAsset Base
+	string m_Name = "guo.atlas"
+	string m_Script = "
+guo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1, 12
+  size: 134, 142
+  orig: 134, 142
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 157
+  size: 238, 139
+  orig: 238, 139
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 138, 3
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 362, 161
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 138, 42
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 362, 213
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 242, 156
+  size: 117, 109
+  orig: 117, 109
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 242, 362
+  size: 192, 124
+  orig: 192, 124
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1, 299
+  size: 238, 187
+  orig: 238, 187
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 138, 97
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 437, 405
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 197, 107
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 242, 111
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 292, 111
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 242, 268
+  size: 170, 91
+  orig: 170, 91
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 437, 368
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 415, 320
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+"

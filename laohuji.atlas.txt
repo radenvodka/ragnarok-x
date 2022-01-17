@@ -1,0 +1,107 @@
+TextAsset Base
+	string m_Name = "laohuji.atlas"
+	string m_Script = "
+laohuji.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 257, 110
+  size: 98, 65
+  orig: 98, 65
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 1
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+WelCome1
+  rotate: false
+  xy: 1, 257
+  size: 263, 247
+  orig: 263, 247
+  offset: 0, 0
+  index: -1
+ice
+  rotate: false
+  xy: 1, 71
+  size: 253, 183
+  orig: 253, 183
+  offset: 0, 0
+  index: -1
+kuang1
+  rotate: true
+  xy: 387, 309
+  size: 195, 86
+  orig: 195, 86
+  offset: 0, 0
+  index: -1
+kuang2
+  rotate: true
+  xy: 387, 114
+  size: 192, 86
+  orig: 192, 86
+  offset: 0, 0
+  index: -1
+mulun
+  rotate: false
+  xy: 476, 414
+  size: 17, 90
+  orig: 17, 90
+  offset: 0, 0
+  index: -1
+qizi
+  rotate: true
+  xy: 257, 50
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+slot time2
+  rotate: true
+  xy: 267, 178
+  size: 326, 117
+  orig: 326, 117
+  offset: 0, 0
+  index: -1
+tiepi
+  rotate: false
+  xy: 358, 115
+  size: 15, 60
+  orig: 15, 60
+  offset: 0, 0
+  index: -1
+xiangzi2
+  rotate: true
+  xy: 1, 35
+  size: 33, 131
+  orig: 33, 131
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 135, 25
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 222, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: false
+  xy: 181, 30
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+"
